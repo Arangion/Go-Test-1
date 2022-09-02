@@ -19,3 +19,5 @@ Sort for Array: -x
 Stable for Array: -x
 Sort for Slice: -x
 Stable for Slice: -x
+
+3. No it doesn't because I wasn't able to get the second program working.
